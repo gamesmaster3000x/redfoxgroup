@@ -1,5 +1,9 @@
 body {
     background-color: lightblue;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
 }
 
 .topnav {
@@ -21,6 +25,7 @@ body {
 
 .header {
     background-image: url("header-bg.png");
+    color: white;
     padding: 20px;
     text-align: center;
 }
