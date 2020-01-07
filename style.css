@@ -1,3 +1,7 @@
+body {
+    background-color: lightblue;
+}
+
 .header {
     background-image: url("header-bg.png");
     padding: 20px;
