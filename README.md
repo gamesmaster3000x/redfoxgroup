@@ -5,11 +5,11 @@ desighners. We mainly participate in 3 different competitions currently.
 
 # WHO MADE THIS
 
-## The following people helped make the http://www.redfoxgroup.net/home/ website a reality
+## The following people helped make the http://www.redfoxgroup.net/ website a reality
 
 - [@Minion3665](https://github.com/Minion3665)
 - [@GenElectrovise](https://github.com/GenElectrovise)
-###### - [@Vilagamer999](https://github.com/Vilagamer999)
+- [@Vilagamer999](https://github.com/Vilagamer999)
 
 ## And gamesmaster3000x is awesome. Why? He's gamesmaster3000x of course.
 
