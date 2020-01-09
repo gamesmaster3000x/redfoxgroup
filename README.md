@@ -3,7 +3,7 @@
 ## WHAT IS THIS REPO?
 
 RedFox is a multi purpose group with a dedicated team of programmers and
-desighners. We mainly participate in 3 different competitions currently.
+designers. We mainly participate in 3 different competitions currently.
 
 ## WHO MADE THIS
 
