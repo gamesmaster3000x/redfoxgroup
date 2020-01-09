@@ -24,7 +24,7 @@ body {
 }
 
 .header {
-    background-image: url("header-bg.png");
+    background-image: url("../src/main/resources/images/fox/redfoxgroup_logo_1_high-res.png");
     -webkit-filter: blur(3px); /* Safari 6.0 - 9.0 */
     filter: blur(4px); /* Btw this is not supported in edge, IE or Safari 5.9 */
     color: black;
