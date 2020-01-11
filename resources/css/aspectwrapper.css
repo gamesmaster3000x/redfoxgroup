@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+.aspectwrapper {
+	display: inline-block; /* shrink to fit */
+	width: 100%; /* whatever width you like */
+	position: relative; /* so .content can use position: absolute */
+}
+
+.aspectwrapper::after {
+	padding-top: 5%; /* percentage of containing block _width_ */
+	display: block;
+	content: '';
+}
+
+.content {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0; /* follow the parent's edges */
+	outline: #e6e4e1; /* just so you can see the box */
+}
