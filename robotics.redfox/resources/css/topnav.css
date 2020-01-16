@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+	background-color: #b0b0b0;
+	overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+	line-height: "22px";
+	float: left;
+	color: #ed544a;
+	text-align: center;
+	padding: 5px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+	background-color: #eda43e;
+	color: white;
+}
